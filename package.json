@@ -41,7 +41,7 @@
     "pomelo-logger": "0.1.6",
     "pomelo-scheduler": "0.3.9",
     "ws": "0.4.25",
-    "pomelo-protobuf": "0.4.0",
+    "pomelo-protobuf": "hyf042/pomelo-protobuf",
     "node-bignumber": "1.2.1",
     "commander": "2.0.0",
     "mqtt": "0.3.9"
